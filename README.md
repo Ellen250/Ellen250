@@ -1,72 +1,107 @@
-# Hi 👋, I'm Imanzi Lutfy
+# 👋 Hi, I'm Imanzi Lutfy
 
-### Senior Full-Stack Software Developer  
-📍 Rwanda  
-
----
-
-## 👨‍💻 About Me
-
-I am a Senior Full-Stack Software Developer with a strong focus on building scalable, secure, and efficient web applications.  
-I specialize in designing complete systems — from frontend user interfaces to backend architecture and database management.
-
-I believe in clean code, structured architecture, and continuous learning to stay aligned with modern technologies.
+<p align="center">
+  <b>Senior Full-Stack Software Developer</b><br>
+  📍 Rwanda • ⚡ Scalable Systems • 🔐 Secure Architecture
+</p>
 
 ---
 
-## 🛠 Technical Skills
+## 🚀 Professional Overview
 
-### Frontend Development
-- HTML5  
-- CSS3  
-- JavaScript (ES6+)  
-- Responsive Design  
-
-### Backend Development
-- Node.js  
-- Express.js  
-- RESTful API Design  
-
-### Database Systems
-- MongoDB  
-- MySQL  
-
-### Tools & Technologies
-- Git & GitHub  
-- Postman  
-- VS Code  
-- System & Network Fundamentals  
+Senior Full-Stack Developer focused on building secure, scalable, and maintainable web applications.  
+Strong in backend architecture, API design, and structured system development.
 
 ---
 
-## 🏗 Professional Focus
+## 🧠 System Architecture Mindset
 
-- Full-Stack Web Application Development  
-- API Architecture & Backend Logic  
-- Database Design & Optimization  
-- Secure Authentication Systems  
-- Scalable Project Structure  
+```
+        ┌─────────────┐
+        │  Frontend   │
+        │  UI / UX    │
+        └──────┬──────┘
+               │ REST API
+        ┌──────▼──────┐
+        │   Backend   │
+        │ Business    │
+        │   Logic     │
+        └──────┬──────┘
+               │ Queries
+        ┌──────▼──────┐
+        │  Database   │
+        │  Storage    │
+        └─────────────┘
+```
 
----
-
-## 📈 GitHub Statistics
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Ellen250&show_icons=true&hide_border=true)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Ellen250&layout=compact&hide_border=true)
-
----
-
-## 🎯 Current Mission
-
-Building impactful software solutions and continuously improving system design, performance optimization, and backend architecture skills.
-
----
-
-## 🤝 Connect With Me
-
-- GitHub: https://github.com/Ellen250  
+✔ Modular System Design  
+✔ RESTful API Engineering  
+✔ Secure Authentication  
+✔ Clean Code Principles  
+✔ Performance Optimization  
 
 ---
 
-> “Discipline in code. Excellence in execution.”
+## 🛠 Technology Stack
+
+### 🎨 Frontend
+<p>
+  <img src="https://skillicons.dev/icons?i=html,css,js" />
+</p>
+
+### ⚙ Backend
+<p>
+  <img src="https://skillicons.dev/icons?i=nodejs,express" />
+</p>
+
+### 🗄 Database
+<p>
+  <img src="https://skillicons.dev/icons?i=mongodb,mysql" />
+</p>
+
+### 🧰 Tools & Workflow
+<p>
+  <img src="https://skillicons.dev/icons?i=git,github,vscode,postman" />
+</p>
+
+---
+
+## 📊 GitHub Analytics
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Ellen250&show_icons=true&hide_border=true" height="150">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ellen250&layout=compact&hide_border=true" height="150">
+</p>
+
+---
+
+## 🎯 Core Focus
+
+```
+Full-Stack Applications
+Backend Architecture
+API Development
+Database Design
+System Optimization
+```
+
+---
+
+## 🏗 Development Philosophy
+
+> Build Secure  
+> Design Scalable  
+> Write Clean Code  
+> Improve Continuously  
+
+---
+
+## 🤝 Connect
+
+🔗 GitHub: https://github.com/Ellen250  
+
+---
+
+<p align="center">
+  <i>Engineering digital systems with discipline and precision.</i>
+</p>
