@@ -1,180 +1,72 @@
-# Full Stack Freelancer Platform
+# Hi 👋, I'm Imanzi Lutfy
 
-A comprehensive full-stack platform that connects freelancers with clients. This project enables freelancers to showcase their skills, apply for jobs, and manage projects, while clients can post jobs, review portfolios, and hire talent.
-
----
-
-## 🚀 Features
-
-- **User Authentication** (Register, Login, Social Auth)
-- **Freelancer & Client Dashboards**
-- **Project & Job Posting**
-- **Bidding/Proposal System**
-- **Messaging & Notifications**
-- **Portfolio Management**
-- **Payment Integration (Stripe/PayPal)**
-- **Reviews & Ratings**
-- **Admin Panel**
-- **Responsive Design**
+### Senior Full-Stack Software Developer  
+📍 Rwanda  
 
 ---
 
-## 🛠️ Tech Stack
+## 👨‍💻 About Me
 
-### Frontend
-- **React.js** (with Redux/Context API)
-- **TypeScript** (optional)
-- **Tailwind CSS / Bootstrap / Material UI**
-- **Axios (API calls)**
+I am a Senior Full-Stack Software Developer with a strong focus on building scalable, secure, and efficient web applications.  
+I specialize in designing complete systems — from frontend user interfaces to backend architecture and database management.
 
-### Backend
-- **Node.js** & **Express.js**
-- **REST API** (or GraphQL)
-- **Authentication** (JWT, OAuth)
-- **Database:** MongoDB (Mongoose) or PostgreSQL (Sequelize/Prisma)
-- **File Uploads:** AWS S3/Cloudinary
-
-### Others
-- **Docker** (Optional, for containerization)
-- **CI/CD:** GitHub Actions / Jenkins
-- **Testing:** Jest / Mocha / Chai
+I believe in clean code, structured architecture, and continuous learning to stay aligned with modern technologies.
 
 ---
 
-## 📦 Project Structure
+## 🛠 Technical Skills
 
-```
-/client         # React frontend
-/server         # Node/Express backend
-/docs           # Documentation
-/.github        # GitHub workflows and templates
-```
+### Frontend Development
+- HTML5  
+- CSS3  
+- JavaScript (ES6+)  
+- Responsive Design  
 
----
+### Backend Development
+- Node.js  
+- Express.js  
+- RESTful API Design  
 
-## 🖥️ Screenshots
+### Database Systems
+- MongoDB  
+- MySQL  
 
-> _Add screenshots or GIFs here to showcase your project UI._
-
----
-
-## 🚩 Getting Started
-
-### Prerequisites
-
-- Node.js v18+
-- npm or yarn
-- MongoDB/PostgreSQL running locally or use cloud services
-- (Optional) Docker
-
-### 1. Clone the repository
-
-```bash
-git clone https://github.com/your-username/fullstack-freelancer.git
-cd fullstack-freelancer
-```
-
-### 2. Setup Backend
-
-```bash
-cd server
-cp .env.example .env    # Update environment variables
-npm install
-npm run dev             # or npm start
-```
-
-### 3. Setup Frontend
-
-```bash
-cd ../client
-cp .env.example .env    # Update API URL etc.
-npm install
-npm start
-```
-
-### 4. Open in Browser
-
-Visit [http://localhost:3000](http://localhost:3000)
+### Tools & Technologies
+- Git & GitHub  
+- Postman  
+- VS Code  
+- System & Network Fundamentals  
 
 ---
 
-## ⚙️ Environment Variables
+## 🏗 Professional Focus
 
-Configure the following in your `.env` files:
-
-```
-# Backend
-PORT=5000
-MONGO_URI=your_mongo_connection
-JWT_SECRET=your_jwt_secret
-...
-# Frontend
-REACT_APP_API_URL=http://localhost:5000/api
-```
+- Full-Stack Web Application Development  
+- API Architecture & Backend Logic  
+- Database Design & Optimization  
+- Secure Authentication Systems  
+- Scalable Project Structure  
 
 ---
 
-## 🧪 Testing
+## 📈 GitHub Statistics
 
-```bash
-# Backend
-cd server
-npm test
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Ellen250&show_icons=true&hide_border=true)
 
-# Frontend
-cd ../client
-npm test
-```
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Ellen250&layout=compact&hide_border=true)
 
 ---
 
-## 📄 API Documentation
+## 🎯 Current Mission
 
-> _Link or embed your API docs (Swagger/Postman)._
-
----
-
-## 🛡️ Security
-
-- Passwords are hashed (bcrypt)
-- JWT for authentication
-- Input validation & sanitization
+Building impactful software solutions and continuously improving system design, performance optimization, and backend architecture skills.
 
 ---
 
-## 🤝 Contributing
+## 🤝 Connect With Me
 
-Contributions, issues, and feature requests are welcome!
-
-1. Fork the repo
-2. Create your feature branch (`git checkout -b feature/fooBar`)
-3. Commit your changes (`git commit -am 'Add some fooBar'`)
-4. Push to the branch (`git push origin feature/fooBar`)
-5. Create a new Pull Request
+- GitHub: https://github.com/Ellen250  
 
 ---
 
-## 💳 License
-
-Distributed under the MIT License. See `LICENSE` for more information.
-
----
-
-## 📞 Contact
-
-**Your Name**  
-[Portfolio Link](https://imanzilutfy.netlify.app)  
-Email: imanzilutfy30@gmail.com 
-
-
----
-
-## ⭐️ Acknowledgements
-
-- [React](https://reactjs.org/)
-- [Node.js](https://nodejs.org/)
-- [MongoDB](https://mongodb.com/)
-- [Stripe](https://stripe.com/)
-- [Tailwind CSS](https://tailwindcss.com/)
-
-> _Feel free to modify this template as per your project’s requirements!_
+> “Discipline in code. Excellence in execution.”
